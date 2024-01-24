@@ -1,0 +1,21 @@
+# .gitignore file for Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.nuget/
+*.dotCover
+*.resharper
+*.sln.docstates
+_ReSharper.*
+*.suo
+*.user
+*.bak
+*.Cache
+*.dll
+*.pdb
+*.log
+[Tt]est[Rr]esult*/
+*.VisualState.xml

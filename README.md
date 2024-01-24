@@ -23,3 +23,11 @@ Offshore # Wind	# Low	# N/A
 Onshore # Wind	# High	# N/A
 Gas	# Medium	# Medium
 Coal	# Medium	# High
+
+
+#################################### Run Guide #################################
+To run the application, follow these steps:
+
+Open the "appsettings.json" file.
+Update the paths for the input and output folders with your own values.
+Note: The startup project is BradyCodeChallenge.Presentation.
